@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name         = "MNLabel"
+  s.name         = "DMCMNLabel"
   s.version      = '0.0.1'
   s.summary      = "测试"
   s.description  = <<-DESC
@@ -21,5 +21,5 @@ Pod::Spec.new do |s|
   #s.dependency 'AFNetworking'
   #s.dependency 'XhlNetWorking/API'
 
-  s.source_files  = "MNLabel/**/*.{h,m}"
+  s.source_files  = "DMCMNLabel/**/*.{h,m}"
 end
