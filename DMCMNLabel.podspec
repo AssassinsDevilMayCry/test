@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "DMCMNLabel"
-  s.version      = '0.0.1'
+  s.version      = '2.0.0'
   s.summary      = "测试"
   s.description  = <<-DESC
                     测试
